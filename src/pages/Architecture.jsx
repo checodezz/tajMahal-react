@@ -6,7 +6,7 @@ const Architecture = () => {
     <>
       <Header />
       <main className="container">
-        <h2 className="display-4">Architecture</h2>
+        <h2 className="display-4 my-2">Architecture</h2>
         <article className="my-3">
           <p>
             The architecture of the Taj Mahal is a sublime fusion of Persian,
